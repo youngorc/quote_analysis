@@ -1,0 +1,5 @@
+{"经营分析":"http://emweb.securities.eastmoney.com/PC_HSF10/BusinessAnalysis/PageAjax"
+,"主要指标":"http://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/ZYZBAjaxNew"
+,"资产负债表":"http://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/zcfzbAjaxNew"
+,"利润表":"http://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/lrbAjaxNew"
+,"现金流量表":"http://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/xjllbAjaxNew"}
